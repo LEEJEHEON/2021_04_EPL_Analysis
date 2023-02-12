@@ -14,10 +14,10 @@ For your information, the analysis is based on the 2019-2020 season.
 2. The point of the relegated teams
 
 3. Common of league winners
-  1) Attack
-  - goal for , shoots , shoots on target
-  2) Defence
-  - goal against, foul, foul card count
+   1) Attack
+   -  goal for , shoots , shoots on target
+   2) Defence
+   -  goal against, foul, foul card count
 
 4. Conclusion  
   
